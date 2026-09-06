@@ -34,6 +34,12 @@
 
 <br>
 
+## 🚀 Live Demo
+
+🔗 **Portfolio:** *https://rishikeshdarunte.vercel.app/*
+
+<br>
+
 ## 🪔 Overview
 
 **Mahabharata** is a static, interactive web experience that brings one of humanity's greatest epics into the browser. Composed over 100,000 verses in its original Sanskrit form, the Mahabharata is far more than a war story — it is a meditation on *dharma* (duty), *karma* (action), and the tangled nature of right and wrong.
