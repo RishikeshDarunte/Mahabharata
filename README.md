@@ -36,7 +36,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio:** *https://rishikeshdarunte.vercel.app/*
+🔗  *https://rishikeshdarunte.vercel.app/*
 
 <br>
 
