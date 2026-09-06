@@ -32,11 +32,9 @@
 </p>
 
 
-<br>
-
 ## 🚀 Live Demo
 
-🔗  *https://rishikeshdarunte.vercel.app/*
+🔗  *https://mahabharata-cyan.vercel.app/*
 
 <br>
 
